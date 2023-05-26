@@ -1,4 +1,6 @@
-<img  alt="banner" width="auto" src="@reallygreatsite.png">
+<p align="center">
+  <img alt="banner" width="90%" src="@reallygreatsite.png">
+</p>
 
 
 ### Hi there 👋
