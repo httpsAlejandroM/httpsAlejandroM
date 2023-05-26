@@ -4,6 +4,9 @@
 
 
 ### Hola!👋 soy Alejandro Medina, 💻 fullstack developer
+<div>
+  Actualmente estoy enfocado en realizar proyectos que me permitan pulir o ampliar mis habilidades y conocimientos en el desarrollo web
+  </div>
 
 ## Que tecnologías uso?
 
@@ -32,3 +35,13 @@
 </td></tr></table>  
 </div>
 <br/>   
+
+<div>
+  Si necesitas una mano en algun proyecto no dudes en contactarme ⤵
+  <br>
+  📩 ale_m@outlook.com
+  <br>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-medina-b4558419b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  </div>
