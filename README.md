@@ -2,14 +2,30 @@
   <img alt="banner" width="90%" src="@reallygreatsite.png">
 </p>
 
+### <div align="center">Hola! 🖐️ bienvenido a mi repositorio de GitHub, soy Alejandro Medina </div>  
+<br>
 
-### Hola!👋 soy Alejandro Medina, 💻 fullstack developer
-<div>
-  Actualmente estoy enfocado en realizar proyectos que me permitan pulir o ampliar mis habilidades y conocimientos en el desarrollo web
-  </div>
+- Sobre mí  
+<br>
+Soy un desarrollador full stack entusiasta y apasionado por crear soluciones tecnológicas, tengo experiencia en diversas tecnologías y lenguajes de programación. Me encanta aprender y estar al día con las últimas tendencias en el mundo del desarrollo web. Estoy enfocado a ampliar constantemente mis conocimientos y habilidades en diferentes áreas, ya que creo que el aprendizaje continuo es esencial para mantenerse en este mundo de la tecnología.
+<br>
+<br>
 
-## Que tecnologías uso?
 
+- Objetivos  
+<br>
+Mi objetivo principal es convertirme en un desarrollador full stack altamente competente y versátil. Estoy comprometido a mejorar constantemente mis habilidades y conocimientos en todos los aspectos del desarrollo web, incluyendo el front-end, back-end y bases de datos.
+<br>
+<br>
+
+- Proyectos  
+<br>
+En este repositorio encontrarás una selección de proyectos en los que he trabajado. Estos proyectos abarcan diversas tecnologías y enfoques, y reflejan mi capacidad para desarrollar aplicaciones web funcionales y atractivas.
+<br>
+<br>
+
+- Que tecnologías uso?
+<br>
 <div align="center">
 <table><tr><td width="auto">
 
@@ -35,9 +51,11 @@
 </td></tr></table>  
 </div>
 <br/>   
+<br>
+<br>
 
 <div>
-  Si necesitas una mano en algun proyecto no dudes en contactarme ⤵
+  Si necesitas sumar a alguien en tu proyecto no dudes en contactarme ⤵
   <br>
   📩 ale_m@outlook.com
   <br>
