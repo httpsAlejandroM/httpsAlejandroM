@@ -60,6 +60,7 @@ En este repositorio encontrarás una selección de proyectos en los que he traba
   📩 ale_m@outlook.com
   <br>
   :briefcase: https://alejandro-medina.vercel.app/
+  <br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-medina-b4558419b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
